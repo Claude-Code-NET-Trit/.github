@@ -18,6 +18,10 @@ Aquí tienes un repositorio por cada tema del curso, con las diapositivas, el c�
 | [8. Modelos en Claude Code](https://github.com/Claude-Code-NET-Trit/tema-08-modelos-en-claude-code) | Proyecto tras el vídeo 8.4 |
 | [9. Taller de Desarrollo con IA y Claude Code en .NET](https://github.com/Claude-Code-NET-Trit/tema-09-taller-desarrollo-con-ia-en-net) | Proyecto con la gestión de alumnos |
 
+## Por dónde empezar
+
+Empieza por el tema 1, donde se instala todo lo necesario. En el tema 2 descargarás el proyecto .NET con el que trabajarás el resto del curso. Cada repositorio tiene su propia guía con lo que contiene y cómo usarlo.
+
 ## Práctica final
 
 La práctica final del curso es **[Alta de dispositivos](https://github.com/Claude-Code-NET-Trit/practica-final-alta-de-dispositivos)**: implementarás el alta de dispositivos en el proyecto MasterNet respetando sus convenciones, con pruebas y documentación.
@@ -25,10 +29,6 @@ La práctica final del curso es **[Alta de dispositivos](https://github.com/Clau
 1. Entra en el repositorio de la práctica y pulsa **Use this template → Create a new repository** para crear tu propio repositorio de entrega, como **público**.
 2. Sigue el enunciado del README. También puedes [descargarlo en Word](https://github.com/Claude-Code-NET-Trit/practica-final-alta-de-dispositivos/raw/main/enunciado-practica-final.docx).
 3. Cuando termines, envía el enlace a tu rama en la tarea de la práctica final en Moodle.
-
-## Por dónde empezar
-
-Empieza por el tema 1, donde se instala todo lo necesario. En el tema 2 descargarás el proyecto .NET con el que trabajarás el resto del curso. Cada repositorio tiene su propia guía con lo que contiene y cómo usarlo.
 
 ---
 
